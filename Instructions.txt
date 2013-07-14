@@ -1,0 +1,13 @@
+1. Export contacts from live id to a csv file
+2. open in excel if and only if you have to change something
+3. download opal converter
+4. converts all the contacts to vcf but only 100 at one trial
+5. copy these contacts to /memory card/others/contacts
+6. go to contacts and select import contacts from other memory
+
+
+now you are ready to sync all the contacts to any phone.. lumia and non lumia....
+
+Siddharth Kannan.
+
+`hk.py` is the python script that can remove all the duplicates. this script was written by siddharth kannan.
